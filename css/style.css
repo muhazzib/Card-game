@@ -1,0 +1,41 @@
+.first>div{
+    display: inline;
+    position: relative;
+    left: 25%;
+        padding: 20px;
+        margin: auto;
+            top: 80px;
+
+}
+body{
+    background-color: darkblue;
+}
+
+h1{
+    position: relative;
+        left: 23%;
+color: white;
+}
+
+
+.second>div{
+    display: inline;
+    position: relative;
+    left: 25%;
+    top: 120px;
+    padding: 20px;
+    margin: auto
+}
+
+.main{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    right: 5%;
+}
+
+.head{
+    position: relative;
+float: left;
+}
